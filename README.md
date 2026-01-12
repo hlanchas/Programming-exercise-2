@@ -19,7 +19,7 @@ Level: 1
 Gold: 12.5
 Class: W
 Alive: True
-
-```Run your code in Thonny to make sure it prints two sets of stats (Before and After).
+```
+Run your code in Thonny to make sure it prints the stats.
 
 Upload your main.py file to this repository.
